@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Voluenter yang diterima:
 * Oon Arfiandwi, [00.or.id](https://oo.or.id).
+* Blitherium, [blitherium.github.io](https://twitch.tv/blith)
